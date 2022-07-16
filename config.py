@@ -1,2 +1,2 @@
 # Add your API key
-api_key = "YOUR KEY HERE!"
+weather_api_key = "23491a9b105fa54c856cfea05721cf7e"
